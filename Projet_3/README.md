@@ -4,7 +4,7 @@ L'agence Santé publique France
 Les données
 Extrait de l’appel à projets :
 
-Le jeu de données Open Food Facts est disponible sur le site officiel (ou disponible à ce lien en téléchargement).https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip
+Le jeu de données Open Food Facts est disponible sur le site officiel.
 Les variables sont définies à cette adresse.
 https://world.openfoodfacts.org/data/data-fields.txt
 
